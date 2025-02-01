@@ -3,4 +3,8 @@
 module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("styles");
+
+    eleventyConfig.addShortcode("highlight", function(text) {
+      return `<span class="highlight">${text}</span>`;
+    });  
 };

@@ -72,7 +72,15 @@ p{
     margin: 50px;
 }
 
-.about-image{
+about-image{
     border-radius: 30px;
-    margin-bottom: 50px;
+
 }
+
+
+.highlight{
+    background-color: #450C12;
+    border-radius: 30px;
+    padding: 10px;
+}
+
