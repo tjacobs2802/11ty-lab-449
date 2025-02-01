@@ -71,3 +71,8 @@ p{
     gap: 100px;
     margin: 50px;
 }
+
+.about-image{
+    border-radius: 30px;
+    margin-bottom: 50px;
+}
