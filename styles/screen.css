@@ -66,13 +66,14 @@ p{
 
 .blog-posts{
     display: flex;
-    justify-content: center;
-    max-width:auto;
-    gap: 100px;
+
     margin: 50px;
+    margin-top: 50px;
 }
 
-about-image{
+
+
+.about-image{
     border-radius: 30px;
 
 }
@@ -84,3 +85,6 @@ about-image{
     padding: 10px;
 }
 
+.flex{
+    width: 600px;
+}
