@@ -5,7 +5,7 @@ title: About
 
 # About **the Blog**
 
-<img class="about-image" src="/images/TJHeadshot.jpg" alt="headshot">
+![Headshot](/images/TJHeadshot.jpg "headshot")
 
 
 <h2>{%highlight "Hello! My name is Trevor Jacobs"%}</h2>
