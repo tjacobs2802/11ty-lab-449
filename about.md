@@ -4,8 +4,9 @@ title: About
 ---
 
 # About **the Blog**
-
+:::{.about-image}
 ![headshot](/images/TJHeadshot.jpg)
+:::
 
 Hello! My name is Trevor Jacobs and I am the author of the Explorer Blog. 
 Currently I am a fifth year senior at Michigan State University, and made this blog
